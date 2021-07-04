@@ -1,6 +1,6 @@
-#test
-#include "stdio.h"    
 
+#include "stdio.h"    
+#test
 #include "stdlib.h"   
 #include "io.h"  
 #include "math.h"  
