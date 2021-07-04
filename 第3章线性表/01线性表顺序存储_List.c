@@ -1,6 +1,6 @@
-
+#wo ui di yi hh
 #include "stdio.h"    
-#test
+
 #include "stdlib.h"   
 #include "io.h"  
 #include "math.h"  
