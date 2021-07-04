@@ -1,6 +1,6 @@
-
+hluidiyihh
 #include "stdio.h"    
-xingma
+
 #include "stdlib.h"   
 #include "io.h"  
 #include "math.h"  
